@@ -17,7 +17,7 @@ src/LogFile is the location of the input for my testing, other files can be used
 How to use in normal case:
 
 pass in path to file
-    ./output/logParser ./src/LogFile 
+./output/logParser ./src/LogFile 
     Generating report:
     Number of host accesses:
     wpbfl2-45.gate.net 6
@@ -35,7 +35,7 @@ pass in path to file
 
 
 Bonus use case with a timing window to capture results (use DD/HH/MM/SS as time input):
-    ./output/logParser ./src/LogFile 29:23:55:30 29:23:57:08
+./output/logParser ./src/LogFile 29:23:55:30 29:23:57:08
     Generating report:
     Number of host accesses:
     wpbfl2-45.gate.net 5
