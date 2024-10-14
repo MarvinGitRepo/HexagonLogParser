@@ -1,0 +1,19 @@
+wpbfl2-45.gate.net [29:23:55:29] "GET /docs/Access HTTP/1.0" 302 -
+140.112.68.165 [29:23:55:33] "GET /logos/us-flag.gif HTTP/1.0" 200 2788
+wpbfl2-45.gate.net [29:23:55:46] "GET /information.html HTTP/1.0" 200 617
+wpbfl2-45.gate.net [29:23:55:47] "GET /icons/people.gif HTTP/1.0" 200 224
+wpbfl2-45.gate.net [29:23:56:03] "GET /docs/Access HTTP/1.0" 302 -
+wpbfl2-45.gate.net [29:23:56:12] "GET /Access/ HTTP/1.0" 200 2376
+wpbfl2-
+45.gate.net
+200 2624
+[29:23:56:14] "GET /Access/images/epaseal.gif
+HTTP/1.0"
+tanuki.twics.com [29:23:56:24] "GET /OSWRCRA/general/hotline/95report/
+HTTP/1.0" 200 1250
+freenet2.carleton.ca [29:23:56:36] "GET /emap/html/regions/four/ HTTP/1.0"
+200 15173
+wpbfl2-45.gate.net [29:23:57:05] "GET /waisicons/unknown.gif HTTP/1.0" 200 83
+ix-mia5-17.ix.netcom.com [29:23:57:06] "GET /OWOW/ HTTP/1.0" 200 1501
+ix-mia5-17.ix.netcom.com [29:23:57:07] "GET /OWOW/ HTTP/1.0" 200 1501
+ix-mia5-17.ix.netcom.com [29:23:57:09] "GET /OWOW/ HTTP/1.0" 200 1501
